@@ -1,0 +1,9 @@
+.DS_Store
+.classpath
+.project
+.settings/
+.metadata/
+target/
+tmp
+local.properties
+nb-configuration.xml
